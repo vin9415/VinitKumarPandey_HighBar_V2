@@ -1,0 +1,11 @@
+seed: 42
+data_path: data/synthetic_fb_ads_undergarments.csv
+sample_mode: true
+
+ctr_threshold: 0.02
+roas_drop_pct: 0.15
+
+output_paths:
+  insights: reports/insights.json
+  creatives: reports/creatives.json
+  report: reports/report.md
