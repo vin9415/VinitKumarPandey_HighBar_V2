@@ -1,0 +1,23 @@
+{
+  "executive_summary": {
+    "total_spend": "$2,105,579.90",
+    "total_revenue": "$12,265,700.72",
+    "total_purchases": "341,144",
+    "average_ctr": "0.0131",
+    "average_roas": "9.6151"
+  },
+  "best_performing": {
+    "platform": "Facebook",
+    "country": "US",
+    "creative_type": "UGC",
+    "audience_type": "Broad",
+    "adset": "Adset-5 Broad"
+  },
+  "recommendations": [
+    "Scale budget on Facebook (highest purchase volume).",
+    "Increase use of UGC creatives for stronger ROAS.",
+    "Expand campaigns in the US (highest revenue).",
+    "Allocate more budget to Broad audiences.",
+    "Apply learnings from Adset-5 Broad to other adsets."
+  ]
+}
