@@ -3,7 +3,8 @@ from src.orchestrator.orchestrator import Orchestrator
 def main():
     orch = Orchestrator()
     # Replace the task description with whatever you want the system to do
-    user_task = "Analyze recent sales and propose 3 improvements"
+    user_task = "Give me full marketing report"
+
     result = orch.run(user_task)
     print("\n=== FINAL RESULT ===")
     for k, v in result.items():
