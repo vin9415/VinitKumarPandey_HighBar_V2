@@ -1,0 +1,586 @@
+{
+  "meta": {
+    "rows": 4500,
+    "cols": 15
+  },
+  "total_spend": 2105579.9,
+  "total_revenue": 12265700.719999999,
+  "total_purchases": 341144,
+  "avg_ctr": 0.013065511111111112,
+  "avg_roas": 9.61513111111111,
+  "top_adsets": [
+    {
+      "key": "Adset-5 Broad",
+      "roas": 11.792330854638909
+    },
+    {
+      "key": "Adset-2 ATC",
+      "roas": 8.772756708554326
+    },
+    {
+      "key": "Adset-5 ATC",
+      "roas": 8.728305746141537
+    },
+    {
+      "key": "Adset-3 Broad",
+      "roas": 7.230286528447904
+    },
+    {
+      "key": "Adset-2 LAL2",
+      "roas": 6.954841163040791
+    },
+    {
+      "key": "Adset-4 Broad",
+      "roas": 6.932422295196217
+    },
+    {
+      "key": "Adset-5 Retarget",
+      "roas": 6.9301058824135415
+    },
+    {
+      "key": "Adset-1 ATC",
+      "roas": 6.704235905904993
+    },
+    {
+      "key": "Adset-1 Retarget",
+      "roas": 6.665901994732605
+    },
+    {
+      "key": "Adset-2 WC",
+      "roas": 6.146165316991084
+    }
+  ],
+  "trend": {
+    "ctr_baseline": 0.012951455571900375,
+    "ctr_current": 0.012347676954537326,
+    "ctr_delta_pct": -4.662,
+    "ctr_z": -19.09315633374521,
+    "ctr_p": 0.0,
+    "roas_baseline": 6.084109811811152,
+    "roas_current": 5.596090922550353,
+    "roas_delta_pct": -8.021,
+    "roas_confidence": 1.0
+  },
+  "low_ctr_segments": [
+    {
+      "segment": "adset:Adset-1 Broad",
+      "ctr": 0.009433423440447302,
+      "ctr_delta_pct": -5.804,
+      "z": -11.29699983442963,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-1 LAL1",
+      "ctr": 0.009165167805874286,
+      "ctr_delta_pct": -8.189,
+      "z": -22.693972940639217,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-2 LAL2",
+      "ctr": 0.014856707639848681,
+      "ctr_delta_pct": -12.782,
+      "z": -32.71987670041627,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-2 Retarget",
+      "ctr": 0.008352125561097871,
+      "ctr_delta_pct": -18.277,
+      "z": -52.003246855603194,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-3 Broad",
+      "ctr": 0.011415901200743496,
+      "ctr_delta_pct": -8.87,
+      "z": -35.137358481820534,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-4 ATC",
+      "ctr": 0.013427400521841123,
+      "ctr_delta_pct": -11.665,
+      "z": -39.232980705216285,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-4 Broad",
+      "ctr": 0.012535217974543038,
+      "ctr_delta_pct": -9.686,
+      "z": -39.57537072542142,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-4 LAL1",
+      "ctr": 0.014923146956071384,
+      "ctr_delta_pct": -9.473,
+      "z": -22.467922913782665,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-4 LAL2",
+      "ctr": 0.011273887686720815,
+      "ctr_delta_pct": -8.285,
+      "z": -23.952402965962012,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-5 Broad",
+      "ctr": 0.018817962434200395,
+      "ctr_delta_pct": -11.911,
+      "z": -31.7141723969706,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-5 LAL2",
+      "ctr": 0.009198119741787723,
+      "ctr_delta_pct": -6.249,
+      "z": -16.950535436379745,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-5 Retarget",
+      "ctr": 0.01582532753220628,
+      "ctr_delta_pct": -13.347,
+      "z": -34.26981420370631,
+      "p": 0.0
+    },
+    {
+      "segment": "adset:Adset-5 WC",
+      "ctr": 0.011397068000099842,
+      "ctr_delta_pct": -20.852,
+      "z": -45.73079847121155,
+      "p": 0.0
+    }
+  ],
+  "low_roas_segments": [
+    {
+      "segment": "adset:Adset-1 ATC",
+      "roas": 5.599358854083602,
+      "roas_delta_pct": -25.865
+    },
+    {
+      "segment": "adset:Adset-1 LAL1",
+      "roas": 4.963610992850077,
+      "roas_delta_pct": -10.435
+    },
+    {
+      "segment": "adset:Adset-2 ATC",
+      "roas": 7.1398115229379435,
+      "roas_delta_pct": -31.666
+    },
+    {
+      "segment": "adset:Adset-2 Broad",
+      "roas": 4.3192407879483365,
+      "roas_delta_pct": -17.264
+    },
+    {
+      "segment": "adset:Adset-2 LAL2",
+      "roas": 5.596450549793827,
+      "roas_delta_pct": -10.764
+    },
+    {
+      "segment": "adset:Adset-2 WC",
+      "roas": 6.429689255545274,
+      "roas_delta_pct": -21.011
+    },
+    {
+      "segment": "adset:Adset-3 Broad",
+      "roas": 6.187470216570814,
+      "roas_delta_pct": -18.444
+    },
+    {
+      "segment": "adset:Adset-4 ATC",
+      "roas": 4.712836810374591,
+      "roas_delta_pct": -18.715
+    },
+    {
+      "segment": "adset:Adset-4 LAL1",
+      "roas": 6.207640030691658,
+      "roas_delta_pct": -33.047
+    },
+    {
+      "segment": "adset:Adset-5 Broad",
+      "roas": 7.153364726851758,
+      "roas_delta_pct": -45.55
+    },
+    {
+      "segment": "adset:Adset-5 LAL2",
+      "roas": 3.223757235837199,
+      "roas_delta_pct": -16.805
+    },
+    {
+      "segment": "adset:Adset-5 Retarget",
+      "roas": 6.374984867438764,
+      "roas_delta_pct": -46.712
+    },
+    {
+      "segment": "adset:Adset-5 WC",
+      "roas": 0.9118547899137736,
+      "roas_delta_pct": -55.133
+    }
+  ],
+  "drivers": [
+    {
+      "segment": "adset:Adset-1 ATC",
+      "metric": "roas",
+      "baseline": 7.553,
+      "current": 5.599,
+      "delta_pct": -25.865,
+      "severity": "high",
+      "confidence": 1.0,
+      "hypothesis": "creative_positioning_or_offer",
+      "evidence_note": "ROAS changed -25.9%"
+    },
+    {
+      "segment": "adset:Adset-1 Broad",
+      "metric": "ctr",
+      "baseline": 0.010015,
+      "current": 0.009433,
+      "delta_pct": -5.804,
+      "z": -11.29699983442963,
+      "p_value": 0.0,
+      "severity": "low",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -5.8% (z=-11.3)"
+    },
+    {
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "ctr",
+      "baseline": 0.009983,
+      "current": 0.009165,
+      "delta_pct": -8.189,
+      "z": -22.693972940639217,
+      "p_value": 0.0,
+      "severity": "low",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -8.2% (z=-22.69)"
+    },
+    {
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "roas",
+      "baseline": 5.542,
+      "current": 4.964,
+      "delta_pct": -10.435,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_positioning_or_offer",
+      "evidence_note": "ROAS changed -10.4%"
+    },
+    {
+      "segment": "adset:Adset-2 ATC",
+      "metric": "roas",
+      "baseline": 10.448,
+      "current": 7.14,
+      "delta_pct": -31.666,
+      "severity": "high",
+      "confidence": 1.0,
+      "hypothesis": "landing_or_offer_issue",
+      "evidence_note": "ROAS changed -31.7%"
+    },
+    {
+      "segment": "adset:Adset-2 Broad",
+      "metric": "roas",
+      "baseline": 5.221,
+      "current": 4.319,
+      "delta_pct": -17.264,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_positioning_or_offer",
+      "evidence_note": "ROAS changed -17.3%"
+    },
+    {
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "ctr",
+      "baseline": 0.017034,
+      "current": 0.014857,
+      "delta_pct": -12.782,
+      "z": -32.71987670041627,
+      "p_value": 0.0,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -12.8% (z=-32.72)"
+    },
+    {
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "roas",
+      "baseline": 6.272,
+      "current": 5.596,
+      "delta_pct": -10.764,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_positioning_or_offer",
+      "evidence_note": "ROAS changed -10.8%"
+    },
+    {
+      "segment": "adset:Adset-2 Retarget",
+      "metric": "ctr",
+      "baseline": 0.01022,
+      "current": 0.008352,
+      "delta_pct": -18.277,
+      "z": -52.003246855603194,
+      "p_value": 0.0,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_performance_or_hook_issue",
+      "evidence_note": "CTR changed -18.3% (z=-52.0)"
+    },
+    {
+      "segment": "adset:Adset-2 WC",
+      "metric": "roas",
+      "baseline": 8.14,
+      "current": 6.43,
+      "delta_pct": -21.011,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_positioning_or_offer",
+      "evidence_note": "ROAS changed -21.0%"
+    },
+    {
+      "segment": "adset:Adset-3 Broad",
+      "metric": "ctr",
+      "baseline": 0.012527,
+      "current": 0.011416,
+      "delta_pct": -8.87,
+      "z": -35.137358481820534,
+      "p_value": 0.0,
+      "severity": "low",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -8.9% (z=-35.14)"
+    },
+    {
+      "segment": "adset:Adset-3 Broad",
+      "metric": "roas",
+      "baseline": 7.587,
+      "current": 6.187,
+      "delta_pct": -18.444,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_positioning_or_offer",
+      "evidence_note": "ROAS changed -18.4%"
+    },
+    {
+      "segment": "adset:Adset-4 ATC",
+      "metric": "ctr",
+      "baseline": 0.015201,
+      "current": 0.013427,
+      "delta_pct": -11.665,
+      "z": -39.232980705216285,
+      "p_value": 0.0,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -11.7% (z=-39.23)"
+    },
+    {
+      "segment": "adset:Adset-4 ATC",
+      "metric": "roas",
+      "baseline": 5.798,
+      "current": 4.713,
+      "delta_pct": -18.715,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_positioning_or_offer",
+      "evidence_note": "ROAS changed -18.7%"
+    },
+    {
+      "segment": "adset:Adset-4 Broad",
+      "metric": "ctr",
+      "baseline": 0.01388,
+      "current": 0.012535,
+      "delta_pct": -9.686,
+      "z": -39.57537072542142,
+      "p_value": 0.0,
+      "severity": "low",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -9.7% (z=-39.58)"
+    },
+    {
+      "segment": "adset:Adset-4 LAL1",
+      "metric": "ctr",
+      "baseline": 0.016485,
+      "current": 0.014923,
+      "delta_pct": -9.473,
+      "z": -22.467922913782665,
+      "p_value": 0.0,
+      "severity": "low",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -9.5% (z=-22.47)"
+    },
+    {
+      "segment": "adset:Adset-4 LAL1",
+      "metric": "roas",
+      "baseline": 9.272,
+      "current": 6.208,
+      "delta_pct": -33.047,
+      "severity": "high",
+      "confidence": 1.0,
+      "hypothesis": "landing_or_offer_issue",
+      "evidence_note": "ROAS changed -33.0%"
+    },
+    {
+      "segment": "adset:Adset-4 LAL2",
+      "metric": "ctr",
+      "baseline": 0.012292,
+      "current": 0.011274,
+      "delta_pct": -8.285,
+      "z": -23.952402965962012,
+      "p_value": 0.0,
+      "severity": "low",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -8.3% (z=-23.95)"
+    },
+    {
+      "segment": "adset:Adset-5 Broad",
+      "metric": "ctr",
+      "baseline": 0.021363,
+      "current": 0.018818,
+      "delta_pct": -11.911,
+      "z": -31.7141723969706,
+      "p_value": 0.0,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -11.9% (z=-31.71)"
+    },
+    {
+      "segment": "adset:Adset-5 Broad",
+      "metric": "roas",
+      "baseline": 13.138,
+      "current": 7.153,
+      "delta_pct": -45.55,
+      "severity": "high",
+      "confidence": 1.0,
+      "hypothesis": "landing_or_offer_issue",
+      "evidence_note": "ROAS changed -45.6%"
+    },
+    {
+      "segment": "adset:Adset-5 LAL2",
+      "metric": "ctr",
+      "baseline": 0.009811,
+      "current": 0.009198,
+      "delta_pct": -6.249,
+      "z": -16.950535436379745,
+      "p_value": 0.0,
+      "severity": "low",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -6.2% (z=-16.95)"
+    },
+    {
+      "segment": "adset:Adset-5 LAL2",
+      "metric": "roas",
+      "baseline": 3.875,
+      "current": 3.224,
+      "delta_pct": -16.805,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_positioning_or_offer",
+      "evidence_note": "ROAS changed -16.8%"
+    },
+    {
+      "segment": "adset:Adset-5 Retarget",
+      "metric": "ctr",
+      "baseline": 0.018263,
+      "current": 0.015825,
+      "delta_pct": -13.347,
+      "z": -34.26981420370631,
+      "p_value": 0.0,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_attention_drop",
+      "evidence_note": "CTR changed -13.3% (z=-34.27)"
+    },
+    {
+      "segment": "adset:Adset-5 Retarget",
+      "metric": "roas",
+      "baseline": 11.963,
+      "current": 6.375,
+      "delta_pct": -46.712,
+      "severity": "high",
+      "confidence": 1.0,
+      "hypothesis": "landing_or_offer_issue",
+      "evidence_note": "ROAS changed -46.7%"
+    },
+    {
+      "segment": "adset:Adset-5 WC",
+      "metric": "ctr",
+      "baseline": 0.0144,
+      "current": 0.011397,
+      "delta_pct": -20.852,
+      "z": -45.73079847121155,
+      "p_value": 0.0,
+      "severity": "medium",
+      "confidence": 1.0,
+      "hypothesis": "creative_performance_or_hook_issue",
+      "evidence_note": "CTR changed -20.9% (z=-45.73)"
+    },
+    {
+      "segment": "adset:Adset-5 WC",
+      "metric": "roas",
+      "baseline": 2.032,
+      "current": 0.912,
+      "delta_pct": -55.133,
+      "severity": "critical",
+      "confidence": 1.0,
+      "hypothesis": "landing_or_offer_issue",
+      "evidence_note": "ROAS changed -55.1%"
+    }
+  ],
+  "creative_performance": [
+    {
+      "creative_type": "Carousel",
+      "spend": 306136.02999999997,
+      "revenue": 1892536.58,
+      "purchases": 53295,
+      "roas": 6.182011898436131
+    },
+    {
+      "creative_type": "Image",
+      "spend": 719101.23,
+      "revenue": 4409417.21,
+      "purchases": 121894,
+      "roas": 6.131844900334825
+    },
+    {
+      "creative_type": "UGC",
+      "spend": 327105.86,
+      "revenue": 1932351.33,
+      "purchases": 54263,
+      "roas": 5.907418870453743
+    },
+    {
+      "creative_type": "Video",
+      "spend": 753236.78,
+      "revenue": 4031395.6,
+      "purchases": 111692,
+      "roas": 5.352096056700789
+    }
+  ],
+  "top_creatives": [
+    {
+      "key": "Carousel",
+      "roas": 6.182011898436131
+    },
+    {
+      "key": "Image",
+      "roas": 6.131844900334825
+    },
+    {
+      "key": "UGC",
+      "roas": 5.907418870453743
+    },
+    {
+      "key": "Video",
+      "roas": 5.352096056700789
+    }
+  ]
+}

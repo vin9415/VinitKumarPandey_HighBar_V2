@@ -1,0 +1,762 @@
+{
+  "status": "ok",
+  "variants": [
+    {
+      "id": "v1_14110",
+      "segment": "adset:Adset-1 ATC",
+      "metric": "roas",
+      "severity": "high",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 ATC \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -25.865% with severity high. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Buy Now",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 ATC",
+        "metric": "roas",
+        "baseline": 7.553,
+        "current": 5.599,
+        "delta_pct": -25.865,
+        "severity": "high",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -25.9%"
+      }
+    },
+    {
+      "id": "v2_a5810",
+      "segment": "adset:Adset-1 ATC",
+      "metric": "roas",
+      "severity": "high",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 ATC \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -25.865% with severity high. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 ATC",
+        "metric": "roas",
+        "baseline": 7.553,
+        "current": 5.599,
+        "delta_pct": -25.865,
+        "severity": "high",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -25.9%"
+      }
+    },
+    {
+      "id": "v3_ee9d6",
+      "segment": "adset:Adset-1 ATC",
+      "metric": "roas",
+      "severity": "high",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 ATC \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -25.865% with severity high. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Shop Now \u2014 Limited Time Offer",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 ATC",
+        "metric": "roas",
+        "baseline": 7.553,
+        "current": 5.599,
+        "delta_pct": -25.865,
+        "severity": "high",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -25.9%"
+      }
+    },
+    {
+      "id": "v4_e0682",
+      "segment": "adset:Adset-1 Broad",
+      "metric": "ctr",
+      "severity": "low",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 Broad \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -5.804% with severity low. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Get Offer Now",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 Broad",
+        "metric": "ctr",
+        "baseline": 0.010015,
+        "current": 0.009433,
+        "delta_pct": -5.804,
+        "z": -11.29699983442963,
+        "p_value": 0.0,
+        "severity": "low",
+        "confidence": 1.0,
+        "hypothesis": "creative_attention_drop",
+        "evidence_note": "CTR changed -5.8% (z=-11.3)"
+      }
+    },
+    {
+      "id": "v5_eabae",
+      "segment": "adset:Adset-1 Broad",
+      "metric": "ctr",
+      "severity": "low",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 Broad \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -5.804% with severity low. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Buy Now",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 Broad",
+        "metric": "ctr",
+        "baseline": 0.010015,
+        "current": 0.009433,
+        "delta_pct": -5.804,
+        "z": -11.29699983442963,
+        "p_value": 0.0,
+        "severity": "low",
+        "confidence": 1.0,
+        "hypothesis": "creative_attention_drop",
+        "evidence_note": "CTR changed -5.8% (z=-11.3)"
+      }
+    },
+    {
+      "id": "v6_b466e",
+      "segment": "adset:Adset-1 Broad",
+      "metric": "ctr",
+      "severity": "low",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 Broad \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -5.804% with severity low. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Get Offer Now",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 Broad",
+        "metric": "ctr",
+        "baseline": 0.010015,
+        "current": 0.009433,
+        "delta_pct": -5.804,
+        "z": -11.29699983442963,
+        "p_value": 0.0,
+        "severity": "low",
+        "confidence": 1.0,
+        "hypothesis": "creative_attention_drop",
+        "evidence_note": "CTR changed -5.8% (z=-11.3)"
+      }
+    },
+    {
+      "id": "v7_ba12e",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "ctr",
+      "severity": "low",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 LAL1 \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -8.189% with severity low. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Get Offer Now",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 LAL1",
+        "metric": "ctr",
+        "baseline": 0.009983,
+        "current": 0.009165,
+        "delta_pct": -8.189,
+        "z": -22.693972940639217,
+        "p_value": 0.0,
+        "severity": "low",
+        "confidence": 1.0,
+        "hypothesis": "creative_attention_drop",
+        "evidence_note": "CTR changed -8.2% (z=-22.69)"
+      }
+    },
+    {
+      "id": "v8_db866",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "ctr",
+      "severity": "low",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 LAL1 \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -8.189% with severity low. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Shop Now \u2014 Limited Time Offer",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 LAL1",
+        "metric": "ctr",
+        "baseline": 0.009983,
+        "current": 0.009165,
+        "delta_pct": -8.189,
+        "z": -22.693972940639217,
+        "p_value": 0.0,
+        "severity": "low",
+        "confidence": 1.0,
+        "hypothesis": "creative_attention_drop",
+        "evidence_note": "CTR changed -8.2% (z=-22.69)"
+      }
+    },
+    {
+      "id": "v9_ae889",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "ctr",
+      "severity": "low",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 LAL1 \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -8.189% with severity low. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Get Offer Now",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 LAL1",
+        "metric": "ctr",
+        "baseline": 0.009983,
+        "current": 0.009165,
+        "delta_pct": -8.189,
+        "z": -22.693972940639217,
+        "p_value": 0.0,
+        "severity": "low",
+        "confidence": 1.0,
+        "hypothesis": "creative_attention_drop",
+        "evidence_note": "CTR changed -8.2% (z=-22.69)"
+      }
+    },
+    {
+      "id": "v10_d75ea",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 LAL1 \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -10.435% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Buy Now",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 LAL1",
+        "metric": "roas",
+        "baseline": 5.542,
+        "current": 4.964,
+        "delta_pct": -10.435,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -10.4%"
+      }
+    },
+    {
+      "id": "v11_16156",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 LAL1 \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -10.435% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 LAL1",
+        "metric": "roas",
+        "baseline": 5.542,
+        "current": 4.964,
+        "delta_pct": -10.435,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -10.4%"
+      }
+    },
+    {
+      "id": "v12_43513",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-1 LAL1 \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -10.435% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-1 LAL1",
+        "metric": "roas",
+        "baseline": 5.542,
+        "current": 4.964,
+        "delta_pct": -10.435,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -10.4%"
+      }
+    },
+    {
+      "id": "v13_f911b",
+      "segment": "adset:Adset-2 ATC",
+      "metric": "roas",
+      "severity": "high",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 ATC \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -31.666% with severity high. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Shop Now \u2014 Limited Time Offer",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 ATC",
+        "metric": "roas",
+        "baseline": 10.448,
+        "current": 7.14,
+        "delta_pct": -31.666,
+        "severity": "high",
+        "confidence": 1.0,
+        "hypothesis": "landing_or_offer_issue",
+        "evidence_note": "ROAS changed -31.7%"
+      }
+    },
+    {
+      "id": "v14_c0b12",
+      "segment": "adset:Adset-2 ATC",
+      "metric": "roas",
+      "severity": "high",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 ATC \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -31.666% with severity high. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 ATC",
+        "metric": "roas",
+        "baseline": 10.448,
+        "current": 7.14,
+        "delta_pct": -31.666,
+        "severity": "high",
+        "confidence": 1.0,
+        "hypothesis": "landing_or_offer_issue",
+        "evidence_note": "ROAS changed -31.7%"
+      }
+    },
+    {
+      "id": "v15_fe0d8",
+      "segment": "adset:Adset-2 ATC",
+      "metric": "roas",
+      "severity": "high",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 ATC \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -31.666% with severity high. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Shop Now \u2014 Limited Time Offer",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 ATC",
+        "metric": "roas",
+        "baseline": 10.448,
+        "current": 7.14,
+        "delta_pct": -31.666,
+        "severity": "high",
+        "confidence": 1.0,
+        "hypothesis": "landing_or_offer_issue",
+        "evidence_note": "ROAS changed -31.7%"
+      }
+    },
+    {
+      "id": "v16_d74d4",
+      "segment": "adset:Adset-2 Broad",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 Broad \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -17.264% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Shop Now \u2014 Limited Time Offer",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 Broad",
+        "metric": "roas",
+        "baseline": 5.221,
+        "current": 4.319,
+        "delta_pct": -17.264,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -17.3%"
+      }
+    },
+    {
+      "id": "v17_1aec2",
+      "segment": "adset:Adset-2 Broad",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 Broad \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -17.264% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Get Offer Now",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 Broad",
+        "metric": "roas",
+        "baseline": 5.221,
+        "current": 4.319,
+        "delta_pct": -17.264,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -17.3%"
+      }
+    },
+    {
+      "id": "v18_1e046",
+      "segment": "adset:Adset-2 Broad",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 Broad \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -17.264% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 Broad",
+        "metric": "roas",
+        "baseline": 5.221,
+        "current": 4.319,
+        "delta_pct": -17.264,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -17.3%"
+      }
+    },
+    {
+      "id": "v19_58878",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "ctr",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 LAL2 \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -12.782% with severity medium. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 LAL2",
+        "metric": "ctr",
+        "baseline": 0.017034,
+        "current": 0.014857,
+        "delta_pct": -12.782,
+        "z": -32.71987670041627,
+        "p_value": 0.0,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_attention_drop",
+        "evidence_note": "CTR changed -12.8% (z=-32.72)"
+      }
+    },
+    {
+      "id": "v20_6b1bc",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "ctr",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 LAL2 \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -12.782% with severity medium. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 LAL2",
+        "metric": "ctr",
+        "baseline": 0.017034,
+        "current": 0.014857,
+        "delta_pct": -12.782,
+        "z": -32.71987670041627,
+        "p_value": 0.0,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_attention_drop",
+        "evidence_note": "CTR changed -12.8% (z=-32.72)"
+      }
+    },
+    {
+      "id": "v21_dcfad",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "ctr",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 LAL2 \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -12.782% with severity medium. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 LAL2",
+        "metric": "ctr",
+        "baseline": 0.017034,
+        "current": 0.014857,
+        "delta_pct": -12.782,
+        "z": -32.71987670041627,
+        "p_value": 0.0,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_attention_drop",
+        "evidence_note": "CTR changed -12.8% (z=-32.72)"
+      }
+    },
+    {
+      "id": "v22_3e6db",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 LAL2 \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -10.764% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Get Offer Now",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 LAL2",
+        "metric": "roas",
+        "baseline": 6.272,
+        "current": 5.596,
+        "delta_pct": -10.764,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -10.8%"
+      }
+    },
+    {
+      "id": "v23_c5190",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 LAL2 \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -10.764% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Shop Now \u2014 Limited Time Offer",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 LAL2",
+        "metric": "roas",
+        "baseline": 6.272,
+        "current": 5.596,
+        "delta_pct": -10.764,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -10.8%"
+      }
+    },
+    {
+      "id": "v24_1a024",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 LAL2 \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -10.764% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 LAL2",
+        "metric": "roas",
+        "baseline": 6.272,
+        "current": 5.596,
+        "delta_pct": -10.764,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -10.8%"
+      }
+    },
+    {
+      "id": "v25_e2152",
+      "segment": "adset:Adset-2 Retarget",
+      "metric": "ctr",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 Retarget \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -18.277% with severity medium. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Shop Now \u2014 Limited Time Offer",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 Retarget",
+        "metric": "ctr",
+        "baseline": 0.01022,
+        "current": 0.008352,
+        "delta_pct": -18.277,
+        "z": -52.003246855603194,
+        "p_value": 0.0,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_performance_or_hook_issue",
+        "evidence_note": "CTR changed -18.3% (z=-52.0)"
+      }
+    },
+    {
+      "id": "v26_d2f36",
+      "segment": "adset:Adset-2 Retarget",
+      "metric": "ctr",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 Retarget \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -18.277% with severity medium. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 Retarget",
+        "metric": "ctr",
+        "baseline": 0.01022,
+        "current": 0.008352,
+        "delta_pct": -18.277,
+        "z": -52.003246855603194,
+        "p_value": 0.0,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_performance_or_hook_issue",
+        "evidence_note": "CTR changed -18.3% (z=-52.0)"
+      }
+    },
+    {
+      "id": "v27_619c1",
+      "segment": "adset:Adset-2 Retarget",
+      "metric": "ctr",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 Retarget \u2014 Improve CTR Performance",
+      "copy": "CTR decreased -18.277% with severity medium. Cause: Weak hook / poor attention retention. Recommended actions: Introduce product visibly in first 2 seconds; Use stronger headline contrast & bold motion; Highlight key value before scroll disrupt. Expected Improvement: +12% \u2192 +25%. CTA: Shop Now \u2014 Limited Time Offer",
+      "expected_lift_pct": [
+        12,
+        25
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 Retarget",
+        "metric": "ctr",
+        "baseline": 0.01022,
+        "current": 0.008352,
+        "delta_pct": -18.277,
+        "z": -52.003246855603194,
+        "p_value": 0.0,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_performance_or_hook_issue",
+        "evidence_note": "CTR changed -18.3% (z=-52.0)"
+      }
+    },
+    {
+      "id": "v28_56bb0",
+      "segment": "adset:Adset-2 WC",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 WC \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -21.011% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Upgrade Today",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 WC",
+        "metric": "roas",
+        "baseline": 8.14,
+        "current": 6.43,
+        "delta_pct": -21.011,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -21.0%"
+      }
+    },
+    {
+      "id": "v29_977eb",
+      "segment": "adset:Adset-2 WC",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 WC \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -21.011% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Get Offer Now",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 WC",
+        "metric": "roas",
+        "baseline": 8.14,
+        "current": 6.43,
+        "delta_pct": -21.011,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -21.0%"
+      }
+    },
+    {
+      "id": "v30_57fe6",
+      "segment": "adset:Adset-2 WC",
+      "metric": "roas",
+      "severity": "medium",
+      "confidence": 1.0,
+      "headline": "adset:Adset-2 WC \u2014 Improve ROAS Performance",
+      "copy": "ROAS decreased -21.011% with severity medium. Cause: Value perception & landing misalignment. Recommended actions: Clarify offer & pricing above fold; Add persuasive social proof; Strengthen CTA to reinforce urgency. Expected Improvement: +10% \u2192 +35%. CTA: Buy Now",
+      "expected_lift_pct": [
+        10,
+        35
+      ],
+      "rationale": {
+        "segment": "adset:Adset-2 WC",
+        "metric": "roas",
+        "baseline": 8.14,
+        "current": 6.43,
+        "delta_pct": -21.011,
+        "severity": "medium",
+        "confidence": 1.0,
+        "hypothesis": "creative_positioning_or_offer",
+        "evidence_note": "ROAS changed -21.0%"
+      }
+    }
+  ],
+  "n_variants": 30,
+  "plan": [
+    "1. Understand task and define subgoals",
+    "2. Collect and load relevant data",
+    "3. Clean and preprocess data",
+    "3b. Segment sales by product, time and region",
+    "4. Analyze data and compute metrics",
+    "5. Generate insights and recommendations",
+    "6. Create final deliverable (summary/report)"
+  ],
+  "insight_ref": {
+    "drivers": 26
+  }
+}

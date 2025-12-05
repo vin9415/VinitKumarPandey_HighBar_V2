@@ -1,0 +1,316 @@
+{
+  "score": 88.0,
+  "top_recommendation": {
+    "variant_id": "v1_7456f",
+    "segment": "adset:Adset-1 ATC",
+    "metric": "roas",
+    "score": 88.0,
+    "expected_lift_pct": [
+      10,
+      35
+    ]
+  },
+  "variant_scores": [
+    {
+      "variant_id": "v1_7456f",
+      "segment": "adset:Adset-1 ATC",
+      "metric": "roas",
+      "score": 88.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v2_743f7",
+      "segment": "adset:Adset-1 ATC",
+      "metric": "roas",
+      "score": 88.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v3_ab9f2",
+      "segment": "adset:Adset-1 ATC",
+      "metric": "roas",
+      "score": 88.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v4_c9cd5",
+      "segment": "adset:Adset-1 Broad",
+      "metric": "ctr",
+      "score": 52.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v5_8594a",
+      "segment": "adset:Adset-1 Broad",
+      "metric": "ctr",
+      "score": 52.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v6_f1723",
+      "segment": "adset:Adset-1 Broad",
+      "metric": "ctr",
+      "score": 52.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v7_89b9d",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "ctr",
+      "score": 52.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v8_c2ced",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "ctr",
+      "score": 52.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v9_acc5d",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "ctr",
+      "score": 52.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v10_324e3",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v11_b9d6a",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v12_66206",
+      "segment": "adset:Adset-1 LAL1",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v13_3508f",
+      "segment": "adset:Adset-2 ATC",
+      "metric": "roas",
+      "score": 88.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v14_dbcf9",
+      "segment": "adset:Adset-2 ATC",
+      "metric": "roas",
+      "score": 88.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v15_57905",
+      "segment": "adset:Adset-2 ATC",
+      "metric": "roas",
+      "score": 88.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v16_34e72",
+      "segment": "adset:Adset-2 Broad",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v17_1c56f",
+      "segment": "adset:Adset-2 Broad",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v18_08062",
+      "segment": "adset:Adset-2 Broad",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v19_3e184",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "ctr",
+      "score": 70.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v20_5c4ca",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "ctr",
+      "score": 70.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v21_cad70",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "ctr",
+      "score": 70.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v22_edfbb",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v23_210fc",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v24_7071f",
+      "segment": "adset:Adset-2 LAL2",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v25_a82c8",
+      "segment": "adset:Adset-2 Retarget",
+      "metric": "ctr",
+      "score": 70.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v26_150d9",
+      "segment": "adset:Adset-2 Retarget",
+      "metric": "ctr",
+      "score": 70.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v27_d6bbe",
+      "segment": "adset:Adset-2 Retarget",
+      "metric": "ctr",
+      "score": 70.0,
+      "expected_lift_pct": [
+        12,
+        25
+      ]
+    },
+    {
+      "variant_id": "v28_8f7d1",
+      "segment": "adset:Adset-2 WC",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v29_aebab",
+      "segment": "adset:Adset-2 WC",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    },
+    {
+      "variant_id": "v30_766e7",
+      "segment": "adset:Adset-2 WC",
+      "metric": "roas",
+      "score": 70.0,
+      "expected_lift_pct": [
+        10,
+        35
+      ]
+    }
+  ],
+  "notes": "Higher score \u2192 stronger business impact and confidence"
+}
